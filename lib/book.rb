@@ -8,5 +8,8 @@ def title
   @title 
 end 
 
+def author=(author)
+  @auth
+
 
 
