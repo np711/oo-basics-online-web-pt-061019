@@ -10,6 +10,9 @@ end
 
 def author=(author)
   @author
+end 
+
+end 
 
 
 
