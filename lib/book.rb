@@ -7,8 +7,6 @@ class Book
     
 end
 
-GENRES - []
-
 def genre=(genre)
   @genre = genre
   GENRES << genre unless GENRES.any? { |g| g == genre }
