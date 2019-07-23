@@ -35,7 +35,6 @@ describe 'Book' do
       book.turn_page 
     end
   end
-end
 
 
 
