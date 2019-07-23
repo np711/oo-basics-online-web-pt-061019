@@ -11,7 +11,6 @@ end
 
 def genre=(genre)
   @genre = genre
-  GENRES << genre unless GENRES.any? { |g| g == genre }
 end 
 
 def turn_page
